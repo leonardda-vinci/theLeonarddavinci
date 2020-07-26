@@ -1,9 +1,10 @@
-## Welcome to GitHub Pages
+## Valledor, John Leonard Mendoza
 
-You can use the [editor on GitHub](https://github.com/leonardda-vinci/theLeonarddavinci/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+<ul>
+  <li>Age : 20 years old</li>
+  <li>Birthdate : October 10, 1999</li>
+  <li>Birthplace : Paniqui, Tarlac</li>
+</ul>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

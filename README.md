@@ -4,6 +4,8 @@
   <li>Age : 20 years old</li>
   <li>Birthdate : October 10, 1999</li>
   <li>Birthplace : Paniqui, Tarlac</li>
+  <li>Naitonality : Filipino</li>
+  <li>Religion : Roman Catholic</li>
 </ul>
 ### Markdown
 

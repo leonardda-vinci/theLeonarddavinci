@@ -1,6 +1,6 @@
 ## Valledor, John Leonard Mendoza
 
-![68801076/88497523-3451cc80-cff3-11ea-9493-a81bb0621b7a](https://user-images.githubusercontent.com/68801076/88497523-3451cc80-cff3-11ea-9493-a81bb0621b7a.jpg)
+![](https://user-images.githubusercontent.com/68801076/88498464-bfcc5d00-cff5-11ea-9154-125bc58df725.jpg)
 
 
 <h3>Information : </h3>

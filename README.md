@@ -1,6 +1,7 @@
 ## Valledor, John Leonard Mendoza
 
-<img src="https://www.facebook.com/photo?fbid=869456053235610&set=a.107277979453425">
+<img src="![john](https://user-images.githubusercontent.com/68801076/88497523-3451cc80-cff3-11ea-9493-a81bb0621b7a.jpg)
+">
 
 <h3>Information : </h3>
 <ul>

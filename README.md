@@ -1,4 +1,4 @@
-<h3 align="center">Valledor, John Leonard Mendoza</h3>
+<h2 align="center">Valledor, John Leonard Mendoza</h2>
 
 <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/leonard.jpg" width="200" height="200"/>
 

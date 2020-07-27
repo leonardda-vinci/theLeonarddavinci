@@ -17,6 +17,7 @@
   <p>I love playing basketball because it helps me to exercise my body and to be healthy.</p>
   <li>Mobile/Computer Online Games</li>
   <p>Playing mobile/computer online games make my day complete. It gives me a relaxing moments, chillin' and it's my stress reliever.</p>
+  <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/dota2.jpg" "width"200" height="200"/>
   <li>Music</li>
   <p>Music is just like playing mobile/computer online games, it give me a relaxing moments, chillin' and it's my stress reliever. When I'm alone I put my earphone in my ears and play a music, it help me to remove my sadness. I love the old songs like the songs of scorpions, eagles, eric clapton, and etc.</p>
   <li>Foods</li>
@@ -31,7 +32,9 @@
 
 ### Contact & Social Media
 <p>You can contact me on this phone number and also you can contact me on my gmail, facebook, and instagram that included below.
-Phone Number : 09770120767
-Gmail : johnleonardvalledor8@gmail.com
-Facebook.com : John Leonard Mendoza Valledor
-Instagram : @justdavincii
+  <ul>
+    <li>Phone Number : 09770120767</li>
+    <li>Gmail : johnleonardvalledor8@gmail.com</li>
+    <li>Facebook.com : John Leonard Mendoza Valledor</li>
+    <li>Instagram : @justdavincii</li>
+</ul>

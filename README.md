@@ -1,4 +1,4 @@
-## Valledor, John Leonard Mendoza
+<h3 align="center">Valledor, John Leonard Mendoza</h3>
 
 <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/leonard.jpg" width="200" height="200"/>
 
@@ -40,3 +40,5 @@
     <li>Facebook.com : John Leonard Mendoza Valledor</li>
     <li>Instagram : @justdavincii</li>
 </ul>
+
+<h2 align="center">Thank you for visiting my Website! </h2>

@@ -23,7 +23,15 @@
   <p>I love eating man, but my body can't gain a fat even though I  eat a lot of amount of foods. When Im stressed I going to store to buy some snacks. Foods is my everything. My favorite food that I always buy is junks foods with C2 or Lipton or Softdrinks. </p>
   <li>Websites</li>
   <p>Website becomes my interest because I amaze or I admire by the web designer. Someday I'm gonna be good on creating or designing a website and someday I'm going to create my first website that I'm the who design it.</p>
+  <li>Sleep</li>
+  <p>Sleep have a biggest role in my life. If I don't consume 9+ hours sleep, I'm high, I can't focus on the things around me. The feeling you can't walk, you can't eat because you don't have enough sleep./p>
+  li>Instruments</li>
+  <p>I start playing instruments when I was grade 7. The instruments that I play is guitar and bass. I want to learn piano someday because I think is cool. I chose to play guitar because I influence by sungha jung, his fingerstyle and there a lot of people who play guitar so I think it's time to me to learn how to play guitar.</p>
 </ol>
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact & Social Media
+<p>You can contact me on this phone number and also you can contact me on my gmail, facebook, and instagram that included below.
+Phone Number : 09770120767
+Gmail : johnleonardvalledor8@gmail.com
+Facebook.com : John Leonard Mendoza Valledor
+Instagram : @justdavincii

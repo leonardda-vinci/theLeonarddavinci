@@ -1,5 +1,8 @@
 ## Valledor, John Leonard Mendoza
 
+<img src="https://www.facebook.com/photo?fbid=869456053235610&set=a.107277979453425">
+
+<h3>Information : </h3>
 <ul>
   <li>Age : 20 years old</li>
   <li>Birthdate : October 10, 1999</li>
@@ -7,7 +10,8 @@
   <li>Naitonality : Filipino</li>
   <li>Religion : Roman Catholic</li>
 </ul>
-### Markdown
+
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

@@ -11,29 +11,13 @@
   <li>Religion : Roman Catholic</li>
 </ul>
 
-### 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Hobbies / Interest
+<ol>
+  <li>Basketball</li>
+  <p>I love playing basketball because it helps me to exercise my body and to be healthy.</p>
+  <li>Mobile/Computer Online Games</li>
+  <p>Playing mobile/computer online games make my day complete. It gives me a relaxing moments, chillin' and it's my stress reliever.</p>
+</ol>
 
 ### Jekyll Themes
 

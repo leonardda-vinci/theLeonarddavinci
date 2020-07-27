@@ -1,6 +1,6 @@
 ## Valledor, John Leonard Mendoza
 
-<img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/leonard.jpg" width="200" height="200" />
+<img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/leonard.jpg" width="200" height="200" align="center/>
 
 <h3>Information : </h3>
 <ul>

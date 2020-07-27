@@ -17,6 +17,7 @@
   <p>I love playing basketball because it helps me to exercise my body and to be healthy.</p>
   <li>Mobile/Computer Online Games</li>
   <p>Playing mobile/computer online games make my day complete. It gives me a relaxing moments, chillin' and it's my stress reliever.</p>
+  
   <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/dota2.jpg" width"200" height="200"/>
   <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/mobile%26computer%20online%20games.jpg" width="200" height="200"/>
   <li>Music</li>

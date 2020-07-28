@@ -1,8 +1,8 @@
 <h2 align="center">Valledor, John Leonard Mendoza</h2>
 
-
-<a href="url"><img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/leonard.jpg" width="200"/></a>
-
+<figure>
+<img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/leonard.jpg" width="200"/>
+</figure>
 <h3>Information : </h3>
 <ul>
   <li>Age : 20 years old</li>

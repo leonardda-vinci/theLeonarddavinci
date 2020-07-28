@@ -42,6 +42,7 @@
   <p>I start playing instruments when I was grade 7. The instruments that I play is guitar and bass. I want to learn piano someday because I think is cool. I chose to play guitar because I influence by sungha jung, his fingerstyle and there a lot of people who play guitar so I think it's time to me to learn how to play guitar.</p>
   <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/instru.jpg" width="200" height="200"/>
   <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/123.jpg" width="200" height="200"/>
+  <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/321.jpg" width="200" height="200"/>
 
 
 <h4 align="center">"No man is really happy or safe without a hobby."</h4>

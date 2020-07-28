@@ -11,7 +11,7 @@
   <li>Religion : Roman Catholic</li>
 </ul>
 
-### Hobbies / Interest
+<h3 align="center">Hobbies / Interest</h3>
 <ol>
   <li>Basketball</li>
   <p>I love playing basketball because it helps me to exercise my body and to be healthy.</p>
@@ -32,7 +32,7 @@
   <p>I start playing instruments when I was grade 7. The instruments that I play is guitar and bass. I want to learn piano someday because I think is cool. I chose to play guitar because I influence by sungha jung, his fingerstyle and there a lot of people who play guitar so I think it's time to me to learn how to play guitar.</p>
 </ol>
 
-### Contact & Social Media
+<h3 align="center">Contact & Social Media</h3>
 <p>You can contact me on this phone number and also you can contact me on my gmail, facebook, and instagram that included below.
   <ul>
     <li>Phone Number : 09770120767</li>

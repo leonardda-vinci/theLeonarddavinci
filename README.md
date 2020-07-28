@@ -15,7 +15,7 @@
 <ol>
   <li>Basketball</li>
   <p>I love playing basketball because it helps me to exercise my body and to be healthy.</p>
-  <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/basket.jpg" width="200" height="200"/>
+  <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/basket.jpg" width="250" height="200"/>
   
   <li>Mobile/Computer Online Games</li>
   <p>Playing mobile/computer online games make my day complete. It gives me a relaxing moments, chillin' and it's my stress reliever.</p>

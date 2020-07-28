@@ -1,5 +1,6 @@
 <h2 align="center">Valledor, John Leonard Mendoza</h2>
 
+![](https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/leonard.jpg%20width="200")
 <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/leonard.jpg" width="200" >
 
 <h3>Information : </h3>

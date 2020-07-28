@@ -11,7 +11,7 @@
   <li>Religion : Roman Catholic</li>
 </ul>
 
-<br>
+<hr>
 
 <h3 align="center">Hobbies / Interest</h3>
 <ol>
@@ -37,7 +37,7 @@
   <h5 align="center">"No man is really happy or safe without a hobby."</h5>
 </ol>
 
-<br>
+<hr>
 
 <h3 align="center">Contact & Social Media</h3>
 <p>You can contact me on this phone number and also you can contact me on my gmail, facebook, and instagram that included below.
@@ -48,6 +48,6 @@
     <li>Instagram : @justdavincii</li>
 </ul>
 
-<br>
+<hr>
 
 <h2 align="center">Thank you for visiting my Website! </h2>

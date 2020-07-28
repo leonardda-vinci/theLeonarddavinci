@@ -1,7 +1,7 @@
 <h2 align="center">Valledor, John Leonard Mendoza</h2>
 
 
-<img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/leonard.jpg" width="200"/>
+<a href="url"><img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/leonard.jpg" width="200"/></a>
 
 <h3>Information : </h3>
 <ul>

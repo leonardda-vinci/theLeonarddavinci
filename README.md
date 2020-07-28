@@ -43,6 +43,7 @@
   <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/instru.jpg" width="200" height="200"/>
   <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/123.jpg" width="200" height="200"/>
   <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/321.jpg" width="200" height="200"/>
+  <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/dasdasddsadssdasdas.jpg" width="200" height="200"/>
 
 
 <h4 align="center">"No man is really happy or safe without a hobby."</h4>

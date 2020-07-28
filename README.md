@@ -26,7 +26,7 @@
   
   <li>Music</li>
   <p>Music is just like playing mobile/computer online games, it give me a relaxing moments, chillin' and it's my stress reliever. When I'm alone I put my earphone in my ears and play a music, it help me to remove my sadness. I love the old songs like the songs of scorpions, eagles, eric clapton, and etc.</p>
-  <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/music.jpg" width="200" height="200"/>
+  <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/music.jpg" width="250" height="200"/>
   <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/music1.jpg" width="200" height="200"/>
   <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/Music3.jpg" width="200" height="200"/>
   

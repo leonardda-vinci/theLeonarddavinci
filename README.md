@@ -32,6 +32,10 @@
   
   <li>Foods</li>
   <p>I love eating man, but my body can't gain a fat even though I  eat a lot of amount of foods. When Im stressed I going to store to buy some snacks. Foods is my everything. My favorite food that I always buy is junks foods with C2 or Lipton or Softdrinks. </p>
+  <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/sd.jpg" width="200" height="200"/>
+  <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/sd.jpg" width="200" height="200"/>
+  <img src="https://github.com/leonardda-vinci/theLeonarddavinci/blob/master/sd.jpg" width="200" height="200"/>
+  
   
   <li>Websites</li>
   <p>Website becomes my interest because I amaze or I admire by the web designer. Someday I'm gonna be good on creating or designing a website and someday I'm going to create my first website that I'm the who design it.</p>

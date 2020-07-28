@@ -34,8 +34,9 @@
   <p>Sleep have a biggest role in my life. If I don't consume 9+ hours sleep, I'm high, I can't focus on the things around me. The feeling you can't walk, you can't eat because you don't have enough sleep./p>
   li>Instruments</li>
   <p>I start playing instruments when I was grade 7. The instruments that I play is guitar and bass. I want to learn piano someday because I think is cool. I chose to play guitar because I influence by sungha jung, his fingerstyle and there a lot of people who play guitar so I think it's time to me to learn how to play guitar.</p>
-  <h5 align="center">"No man is really happy or safe without a hobby."</h5>
-</ol>
+ </ol> 
+
+<h4 align="center">"No man is really happy or safe without a hobby."</h4>
 
 <hr>
 
